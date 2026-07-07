@@ -1,16 +1,122 @@
-# React + Vite
+# 🚀 HireGen AI Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered Resume Analyzer & ATS Optimization Platform built using **React**, **Tailwind CSS**, **Spring Boot**, **Gemini AI**, and **PostgreSQL**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Overview
 
-## React Compiler
+HireGen AI helps job seekers improve their resumes by providing AI-powered resume analysis, ATS compatibility scoring, missing skills detection, strengths, weaknesses, and personalized improvement suggestions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 JWT Authentication
+- 👤 User Registration & Login
+- 📄 Resume Upload (PDF)
+- 🤖 AI Resume Analysis
+- 📊 ATS Score
+- 📈 Resume Score
+- 💡 Resume Strengths
+- ⚠️ Resume Weaknesses
+- 🧠 Missing Skills Detection
+- 📋 AI Improvement Roadmap
+- 📑 AI Generated Summary
+- 🎨 Modern Responsive UI
+- 🌈 Beautiful Animations using Framer Motion
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Axios
+- Framer Motion
+- React Router
+- Lucide React
+- React Hot Toast
+
+### Backend
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- REST API
+
+### Database
+
+- PostgreSQL
+
+### AI
+
+- Gemini API
+
+---
+
+## 📂 Project Structure
+
+```
+src
+│
+├── api
+├── assets
+├── components
+│   └── analysis
+├── pages
+├── ui
+└── main.jsx
+```
+
+---
+
+## 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/nishankhnehewal/HireGen-AI-Frontend.git
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+Coming Soon
+
+---
+
+## 🌟 Future Improvements
+
+- Resume Templates
+- Cover Letter Generator
+- Interview Preparation
+- Job Recommendation Engine
+- Resume Version Management
+- AI Chat Assistant
+
+---
+
+## 👨‍💻 Author
+
+**Nishankh Nehewal**
+
+LinkedIn: *Coming Soon*
+
+GitHub:
+https://github.com/nishankhnehewal
